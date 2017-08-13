@@ -24,6 +24,8 @@
     }
  ],
   "web_accessible_resources": [
-        "src/inject/main.js"
+        "src/inject/main.js",
+        "src/inject/video-js.min.css",
+        "src/inject/video.min.js"
     ]
 }
